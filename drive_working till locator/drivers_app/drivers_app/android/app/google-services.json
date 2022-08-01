@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "88160237792",
+    "firebase_url": "https://user-app-ff056-default-rtdb.firebaseio.com",
+    "project_id": "user-app-ff056",
+    "storage_bucket": "user-app-ff056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88160237792:android:cfc52658b068fd53003885",
+        "android_client_info": {
+          "package_name": "com.hance.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88160237792-rh7hqq8l1t64s0b7id5d8qsun8pop9vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1084o6AzhBFxJER7qwNnsaNAU45KCOsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88160237792-rh7hqq8l1t64s0b7id5d8qsun8pop9vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88160237792:android:b9511b1e09680267003885",
+        "android_client_info": {
+          "package_name": "com.hance.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88160237792-rh7hqq8l1t64s0b7id5d8qsun8pop9vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1084o6AzhBFxJER7qwNnsaNAU45KCOsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88160237792-rh7hqq8l1t64s0b7id5d8qsun8pop9vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
